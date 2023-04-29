@@ -1,0 +1,19 @@
+cradle:
+  cabal:
+    - path: "src/Main.hs"
+      component: "stockquotes:exe:stockquotes"
+
+    - path: "src/Charts.hs"
+      component: "stockquotes:exe:stockquotes"
+
+    - path: "src/HtmlReport.hs"
+      component: "stockquotes:exe:stockquotes"
+
+    - path: "src/Params.hs"
+      component: "stockquotes:exe:stockquotes"
+
+    - path: "src/QuoteData.hs"
+      component: "stockquotes:exe:stockquotes"
+
+    - path: "src/StatReport.hs"
+      component: "stockquotes:exe:stockquotes"

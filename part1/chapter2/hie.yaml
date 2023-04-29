@@ -1,0 +1,7 @@
+cradle:
+  cabal:
+    - path: "./expr.hs"
+      component: "chapter2:exe:expr"
+
+    - path: "./radar.hs"
+      component: "chapter2:exe:radar"
