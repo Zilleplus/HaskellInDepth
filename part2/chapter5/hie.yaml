@@ -1,0 +1,28 @@
+cradle:
+  cabal:
+    - path: "./src/reader.hs"
+      component: "chapter5:exe:reader"
+
+    - path: "./src/genSQL.hs"
+      component: "chapter5:exe:sql"
+
+    - path: "./src/gcd.hs"
+      component: "chapter5:exe:gcd"
+
+    - path: "./src/sumlist.hs"
+      component: "chapter5:exe:sumlist"
+
+    - path: "./src/weapons.hs"
+      component: "chapter5:exe:weapons"
+
+    - path: "./src/dicegame.hs"
+      component: "chapter5:exe:dicegame"
+
+    - path: "./src/ioref.hs"
+      component: "chapter5:exe:ioref"
+
+    - path: "./src/stref.hs"
+      component: "chapter5:exe:stref"
+
+    - path: "./src/countzeros.hs"
+      component: "chapter5:exe:countzeros"
